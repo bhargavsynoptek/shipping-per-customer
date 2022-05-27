@@ -6,7 +6,7 @@ use Magento\Framework\Option\ArrayInterface;
 
 /**
  * Class Messagetype
- * @package Meetanshi\ShippingPerCustomer\Model\Config\Source
+ * @package Bhargav\ShippingPerCustomer\Model\Config\Source
  */
 class Shipping implements ArrayInterface
 {
